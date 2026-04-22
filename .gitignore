@@ -2,3 +2,4 @@ __pycache__
 ft_package.egg-info
 build
 dist
+.venv
