@@ -1,5 +1,6 @@
 import sys
 
+
 def convert_to_morse(alp_str: str, morse_code_dict: dict[str, str]):
     """Convert a string consisted of alphabets and spaces to morse code"""
     ret = ""
