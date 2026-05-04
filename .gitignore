@@ -3,3 +3,4 @@ ft_package.egg-info
 build
 dist
 .venv
+venv
